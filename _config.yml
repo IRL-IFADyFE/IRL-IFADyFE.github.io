@@ -1,3 +1,8 @@
+header:
+  overlay_image: /assets/images/wave_jap.png
+  overlay_filter: 0.3
+  #overlay_filter: rgba(255, 0, 0, 0.5)
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -13,6 +18,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+
 
 # Site Settings
 locale                   : "en-US"
