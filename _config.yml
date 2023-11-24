@@ -23,6 +23,9 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 
 # Site Settings
+header:
+  overlay_image: "/assets/images/wave_jap.png"
+  overlay_filter: 0.3
 locale                   : "en-US"
 title                    : "IRL IFADyFE"
 title_separator          : "-"
@@ -131,7 +134,7 @@ author:
       url: "https://twitter.com/IRL_IFADyFE"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/IRL-IFADyFE"
+      url: "https://github.com/IRL-IFADyFE/"
 
 # Site Footer
 footer:
