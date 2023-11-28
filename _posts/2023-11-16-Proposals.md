@@ -1,8 +1,11 @@
 ---
 excrpts: Proposals
+title: Proposals
 ---
 
 ## Stages at LFD / IRL
+
+This could bea a repository for the labs proposal. It could create a network of webpages of labs
 
 - [Drag Reduction in wakes through flexible plates.](/assets/posts/flapwake)
 
